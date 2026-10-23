@@ -4,6 +4,8 @@
 
 Built for the **Appwrite Databases Hackathon** with **Appwrite TablesDB + Gemini + Next.js**.
 
+![LoanLoop shelf](docs/screenshot.webp)
+
 ---
 
 ## What it does
